@@ -4,7 +4,7 @@ body {
 
 .exemplo {
   width: 200px;
-  height: 200px;
+  height: 100px;
   line-height: 200px;
   color: white;
   text-transform: uppercase;
@@ -22,7 +22,7 @@ body {
 .exemplo2 {
   background-color: lightgreen;
   position: absolute;
-  left: 20%;
+  left: 50%;
   top: 50%;
   transform: translate(-50%, -50%)
 }
